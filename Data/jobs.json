@@ -1,0 +1,327 @@
+{
+    "jobs": [
+      {
+        "company_name": "AeroML Ops",
+        "company_description": "AeroML Ops provides end-to-end MLOps consulting for aviation, logistics, and defense clients. We specialize in building scalable ML pipelines, automating retraining workflows, and ensuring regulatory compliance in mission-critical AI systems.",
+        "about_role": "We are seeking an MLOps Engineer to lead the design and automation of machine learning pipelines. You will containerize ML models, manage cloud infrastructure, and implement CI/CD systems for ML lifecycle management. This role is ideal for engineers who thrive at the intersection of DevOps and applied machine learning.",
+        "skills_needed": [
+          "In-depth knowledge of MLOps principles, including reproducibility, automated retraining, and model versioning",
+          "Hands-on experience with Kubernetes, Docker, and Helm for deploying and scaling ML workloads",
+          "Proficiency with CI/CD systems such as Jenkins, GitHub Actions, or GitLab CI to automate ML deployments",
+          "Strong familiarity with cloud ML services such as AWS SageMaker, GCP Vertex AI, or Azure ML for production pipelines",
+          "Experience implementing monitoring and observability solutions (Prometheus, Grafana, ELK) to track model drift, latency, and uptime"
+        ],
+        "benefits_offered": [
+          "Remote-first with optional office hubs",
+          "Performance bonuses and equity pool",
+          "Annual ML/AI cloud credits for experimentation",
+          "Paid certifications in cloud/MLOps technologies",
+          "Health, dental, and retirement benefits"
+        ]
+      },
+      {
+        "company_name": "CodeSphere Labs",
+        "company_description": "CodeSphere Labs builds high-performance web applications and APIs for fintech and SaaS startups. We focus on creating robust backend systems, scalable microservices, and modern frontend interfaces using cutting-edge JavaScript frameworks.",
+        "about_role": "We are looking for a Full Stack JavaScript Engineer with strong Node.js and Express expertise. You will design and build APIs, optimize database queries, and integrate with modern frontend frameworks. Experience with cloud deployments and TypeScript is a plus.",
+        "skills_needed": [
+          "Expertise in JavaScript and Node.js with the ability to write clean, maintainable, and modular code",
+          "Strong experience with Express.js to build scalable RESTful APIs and middleware pipelines",
+          "Practical knowledge of frontend frameworks like React, Vue, or Angular for building responsive UIs",
+          "Experience in database design and optimization with MongoDB or PostgreSQL, including query performance tuning",
+          "Understanding of containerization (Docker) and CI/CD workflows for deploying full-stack applications in production environments"
+        ],
+        "benefits_offered": [
+          "Hybrid work schedule with flexible hours",
+          "Stock options and quarterly bonuses",
+          "Conference travel budget",
+          "Annual learning stipend for JS/TS certifications",
+          "Team retreats and hackathons"
+        ]
+      },
+      {
+        "company_name": "Insight Analytics",
+        "company_description": "Insight Analytics delivers advanced data science and AI solutions for retail, healthcare, and manufacturing. We focus on predictive modeling, anomaly detection, and recommendation systems tailored to business needs.",
+        "about_role": "We are hiring a Data Scientist with strong machine learning expertise. You will build predictive models, analyze large datasets, and work closely with engineers to productionize solutions. The role combines research-driven exploration with applied ML deployment.",
+        "skills_needed": [
+          "Strong proficiency in Python and R with experience in data wrangling, feature engineering, and statistical modeling",
+          "Hands-on experience with ML libraries such as scikit-learn, TensorFlow, or PyTorch for supervised and unsupervised learning tasks",
+          "Ability to apply statistical techniques and hypothesis testing to validate business insights",
+          "Experience with distributed data systems (Spark, Hadoop) and SQL for querying and handling large datasets",
+          "Proficiency with visualization tools like Tableau, Power BI, or matplotlib to present findings to stakeholders"
+        ],
+        "benefits_offered": [
+          "Flexible remote policy",
+          "Profit-sharing and bonus opportunities",
+          "Access to cloud GPU clusters",
+          "Annual data science conference sponsorship",
+          "Wellness programs and insurance"
+        ]
+      },
+      {
+        "company_name": "WebGrid Solutions",
+        "company_description": "WebGrid Solutions builds AI-enabled web applications for startups and enterprises. We specialize in backend systems using Django and Flask, combined with scalable APIs and frontend integrations.",
+        "about_role": "We are seeking a Backend Engineer with strong Django and Flask experience. You will design RESTful APIs, integrate machine learning models, and work with frontend and DevOps teams to deliver full-stack solutions.",
+        "skills_needed": [
+          "Proficient in Python with practical experience in building and maintaining applications using Django and Flask frameworks",
+          "Experience developing RESTful APIs and integrating them with frontend systems or third-party services",
+          "Hands-on experience with relational databases such as PostgreSQL or MySQL, and caching solutions like Redis",
+          "Familiarity with containerization (Docker), Git version control, and CI/CD pipelines for automated deployments",
+          "Basic knowledge of frontend technologies (HTML, CSS, JavaScript) for full-stack collaboration"
+        ],
+        "benefits_offered": [
+          "Hybrid work model with flexible hours",
+          "Annual performance-based bonuses",
+          "Training and certification support",
+          "Company-paid hackathons and workshops",
+          "Comprehensive health coverage"
+        ]
+      },
+      {
+        "company_name": "NeuroSim Robotics",
+        "company_description": "NeuroSim Robotics develops intelligent control systems for industrial and service robots. Our work combines reinforcement learning, computer vision, and robotics software development for real-world automation challenges.",
+        "about_role": "We are hiring a Robotics Software Engineer to design control algorithms and integrate ML models into robotic platforms. You will work on path planning, perception systems, and simulation-to-real-world deployment.",
+        "skills_needed": [
+          "Strong programming background in C++ and Python for robotics software development",
+          "Experience with ROS/ROS2 for building and integrating robotic systems",
+          "Hands-on knowledge of reinforcement learning and computer vision applied to real-world robotics use cases",
+          "Familiarity with robotic simulators such as Gazebo, Isaac Sim, or Webots for simulation-to-real deployment",
+          "Solid foundation in mathematics, particularly linear algebra, probability, and control theory for algorithm design"
+        ],
+        "benefits_offered": [
+          "Robotics lab access and prototyping tools",
+          "Stock options and innovation bonuses",
+          "Relocation and visa support",
+          "International robotics competitions",
+          "Comprehensive health, dental, and vision plans"
+        ]
+      },
+      {
+        "company_name": "QuantumSoft Systems",
+        "company_description": "QuantumSoft Systems builds software solutions at the intersection of quantum computing, optimization, and classical computing. We collaborate with research labs and enterprises to deliver hybrid algorithms for finance, logistics, and materials science.",
+        "about_role": "We are looking for a Software Engineer with interest in quantum computing and algorithm design. You will work on hybrid optimization algorithms, integrate quantum APIs with classical software, and build scalable tools for enterprise use.",
+        "skills_needed": [
+          "Proficiency in Python, C++, or Java with experience in developing computationally intensive applications",
+          "Hands-on familiarity with quantum SDKs such as Qiskit, Cirq, or Amazon Braket for prototyping quantum algorithms",
+          "Strong understanding of algorithms, linear algebra, and probability, particularly in the context of optimization problems",
+          "Experience integrating quantum APIs with distributed cloud systems for hybrid computing solutions",
+          "Interest in research-driven development and ability to translate theoretical concepts into practical software tools"
+        ],
+        "benefits_offered": [
+          "Access to quantum computing resources",
+          "Research publication and patent support",
+          "Equity and performance-based bonuses",
+          "Flexible work-from-anywhere policy",
+          "Health, dental, and retirement plans"
+        ]
+      },
+      {
+        "company_name": "SkyScale Cloud",
+        "company_description": "SkyScale Cloud delivers advanced multi-cloud infrastructure and networking solutions for large enterprises. We focus on scalability, zero-downtime deployments, and high-performance networking in hybrid and multi-cloud environments.",
+        "about_role": "We are hiring a Cloud Infrastructure Engineer to design and optimize hybrid cloud systems. You will work on load balancing, container orchestration, and cross-cloud networking to ensure reliable and secure operations.",
+        "skills_needed": [
+          "Strong expertise in cloud platforms (AWS, Azure, GCP) with deep knowledge of networking and IAM policies",
+          "Experience with Terraform, Pulumi, or CloudFormation for infrastructure-as-code",
+          "Proficiency in Kubernetes and service mesh architectures (Istio, Linkerd)",
+          "Understanding of cloud cost optimization, autoscaling, and failover strategies",
+          "Experience implementing zero-trust security models in cloud environments"
+        ],
+        "benefits_offered": [
+          "Remote-first work culture",
+          "Annual cloud certification sponsorships",
+          "Generous training and lab credits",
+          "Performance-based bonuses",
+          "Full health and retirement packages"
+        ]
+      },
+      {
+        "company_name": "NimbusSec",
+        "company_description": "NimbusSec provides enterprise-grade cloud security and compliance solutions for regulated industries. We help companies secure cloud-native workloads, enforce compliance, and automate remediation workflows.",
+        "about_role": "We are seeking a Cloud Security Engineer to develop and enforce security policies across multi-cloud deployments. You will design IAM strategies, perform security audits, and build automated compliance pipelines.",
+        "skills_needed": [
+          "Expertise in cloud security best practices across AWS, GCP, and Azure",
+          "Hands-on experience with IAM, Secrets Manager, and Key Vault for secure access control",
+          "Familiarity with container security (Aqua, Prisma, Twistlock)",
+          "Experience with compliance frameworks such as SOC2, HIPAA, and ISO 27001",
+          "Knowledge of SIEM and threat detection tools to monitor cloud workloads"
+        ],
+        "benefits_offered": [
+          "Work-from-anywhere policy",
+          "Annual security training and certifications",
+          "Equity and retention bonuses",
+          "Conference sponsorships",
+          "Comprehensive health, dental, and vision insurance"
+        ]
+      },
+      {
+        "company_name": "JavaCore Systems",
+        "company_description": "JavaCore Systems develops enterprise-grade backend platforms for finance, telecom, and e-commerce. We specialize in high-availability distributed systems built with Java and Spring Boot.",
+        "about_role": "We are hiring a Senior Java Backend Engineer to design scalable microservices, optimize JVM performance, and lead API development. The role requires strong distributed systems knowledge and real-time transaction handling.",
+        "skills_needed": [
+          "Expertise in Java, Spring Boot, and Hibernate for backend development",
+          "Experience building and scaling microservices with Docker and Kubernetes",
+          "Deep understanding of concurrency, multithreading, and performance tuning in JVM",
+          "Hands-on experience with databases like PostgreSQL, Oracle, or Cassandra",
+          "Knowledge of messaging systems such as Kafka, RabbitMQ, or Pulsar"
+        ],
+        "benefits_offered": [
+          "Flexible hybrid schedule",
+          "Annual bonus and stock grants",
+          "Generous training budget for Java/Cloud certifications",
+          "Conference sponsorships",
+          "Full family healthcare and pension plans"
+        ]
+      },
+      {
+        "company_name": "Promptly AI",
+        "company_description": "Promptly AI helps enterprises adopt Generative AI safely and efficiently. We design enterprise prompt libraries, testing frameworks, and evaluation pipelines for LLM adoption.",
+        "about_role": "We are seeking a Prompt Engineer to design, evaluate, and optimize prompts for LLM-based systems. You will collaborate with researchers and product teams to build robust prompt libraries and test cases.",
+        "skills_needed": [
+          "Experience designing prompts for LLMs (GPT, Claude, LLaMA, Gemini)",
+          "Strong knowledge of prompt engineering strategies (few-shot, chain-of-thought, RAG context injection)",
+          "Ability to evaluate LLM outputs using human and automated metrics",
+          "Knowledge of ethical AI guidelines and responsible LLM deployment practices",
+          "Basic coding skills in Python or JavaScript for prompt automation scripts"
+        ],
+        "benefits_offered": [
+          "Remote-friendly with flexible work hours",
+          "AI learning stipend for prompt engineering workshops",
+          "Annual bonus and stock options",
+          "Conference sponsorships in AI/LLM fields",
+          "Healthcare and wellness coverage"
+        ]
+      },
+      {
+        "company_name": "SynthMind Labs",
+        "company_description": "SynthMind Labs builds enterprise-ready Generative AI solutions, including retrieval-augmented generation (RAG) pipelines, fine-tuned LLMs, and multi-modal assistants.",
+        "about_role": "We are hiring a Generative AI Engineer to design and deploy RAG pipelines and fine-tuned domain-specific models. You will integrate embeddings, vector DBs, and API orchestration into production systems.",
+        "skills_needed": [
+          "Strong expertise in vector databases (Pinecone, Weaviate, FAISS) for RAG",
+          "Hands-on experience with fine-tuning LLMs using HuggingFace Transformers or LoRA",
+          "Experience with LangChain or LlamaIndex for building AI pipelines",
+          "Knowledge of API orchestration frameworks (FastAPI, gRPC) for scalable deployment",
+          "Understanding of evaluation frameworks for generative AI (BLEU, ROUGE, perplexity, human eval)"
+        ],
+        "benefits_offered": [
+          "Remote-first company culture",
+          "GPU credits for training experiments",
+          "Equity packages for early team members",
+          "Annual AI research conference sponsorships",
+          "Comprehensive benefits and wellness programs"
+        ]
+      },
+      {
+        "company_name": "VisionGen AI",
+        "company_description": "VisionGen AI develops multimodal generative AI applications that combine vision, speech, and text. We specialize in generative design tools, AI copilots, and content automation pipelines.",
+        "about_role": "We are seeking a GenAI Research Engineer to work on multimodal foundation models. You will develop tools for combining vision and text models, evaluate generative systems, and optimize large-scale training pipelines.",
+        "skills_needed": [
+          "Experience with multimodal AI frameworks (CLIP, Flamingo, Kosmos, BLIP-2)",
+          "Hands-on knowledge of diffusion models and text-to-image generation",
+          "Strong coding skills in PyTorch or JAX for large model training",
+          "Experience with distributed training and GPU/TPU scaling",
+          "Ability to run experiments, analyze results, and publish findings in research venues"
+        ],
+        "benefits_offered": [
+          "Research-driven environment with academic collaboration",
+          "Publication and patent support",
+          "Annual conference travel sponsorship",
+          "Stock grants for early contributors",
+          "Comprehensive health and retirement plans"
+        ]
+      },
+      {
+        "company_name": "ElectroCore Systems",
+        "company_description": "ElectroCore Systems develops next-generation embedded electronics for automotive, aerospace, and IoT devices. We specialize in low-power microcontrollers, high-speed interfaces, and real-time operating systems.",
+        "about_role": "We are hiring an Embedded Systems Engineer to design and optimize firmware for ARM-based microcontrollers. You will work on real-time control, driver development, and performance optimization for constrained hardware.",
+        "skills_needed": [
+          "Proficiency in C/C++ for embedded development",
+          "Hands-on experience with RTOS (FreeRTOS, Zephyr, VxWorks)",
+          "Strong understanding of microcontroller architectures (ARM Cortex-M, RISC-V)",
+          "Experience debugging hardware/software interfaces using oscilloscopes and logic analyzers",
+          "Knowledge of low-power design techniques and hardware optimization"
+        ],
+        "benefits_offered": [
+          "On-site hardware lab access",
+          "Company-sponsored electronics certifications",
+          "Annual innovation hackathons",
+          "Performance bonuses and equity options",
+          "Full health and retirement packages"
+        ]
+      },
+      {
+        "company_name": "BlueWave Lounge",
+        "company_description": "BlueWave Lounge is a trendy rooftop bar known for its vibrant nightlife and signature cocktails.",
+        "about_role": "We are hiring a Bar Back to support bartenders by stocking supplies, cleaning glassware, and maintaining a clean bar area.",
+        "skills_needed": [
+          "Ability to lift heavy items and work on your feet for long hours",
+          "Attention to detail for cleanliness and organization",
+          "Teamwork and communication skills to assist bartenders efficiently"
+        ],
+        "benefits_offered": [
+          "Flexible evening shifts",
+          "Tips and performance bonuses",
+          "Employee discounts on food and drinks"
+        ]
+      },
+      {
+        "company_name": "Sunset Spirits",
+        "company_description": "Sunset Spirits is a busy cocktail bar focusing on craft cocktails and a premium guest experience.",
+        "about_role": "We are seeking a Bartender to mix drinks, interact with guests, and ensure a top-notch experience at the bar.",
+        "skills_needed": [
+          "Knowledge of classic and modern cocktail recipes",
+          "Customer service skills and friendly demeanor",
+          "Ability to multitask in a fast-paced environment"
+        ],
+        "benefits_offered": [
+          "Evening shift flexibility",
+          "Tips and service bonuses",
+          "Staff parties and team events"
+        ]
+      },
+      {
+        "company_name": "Ocean Breeze Bar",
+        "company_description": "Ocean Breeze Bar is a beachfront bar popular with tourists and locals alike.",
+        "about_role": "Hiring a Bartender responsible for crafting cocktails, handling cash transactions, and providing excellent customer service.",
+        "skills_needed": [
+          "Experience preparing cocktails and drinks",
+          "Strong interpersonal and communication skills",
+          "Ability to work in a high-volume bar environment"
+        ],
+        "benefits_offered": [
+          "Tips and gratuities",
+          "Flexible scheduling",
+          "Free drinks during shifts"
+        ]
+      },
+      {
+        "company_name": "Highball Lounge",
+        "company_description": "Highball Lounge is an upscale cocktail bar specializing in handcrafted drinks and curated experiences.",
+        "about_role": "We are hiring an Experienced Cocktail Bartender to design and mix signature cocktails, train junior staff, and manage the bar efficiently.",
+        "skills_needed": [
+          "Advanced cocktail mixing and presentation skills",
+          "Experience training and supervising bar staff",
+          "Knowledge of spirits, wines, and cocktail trends"
+        ],
+        "benefits_offered": [
+          "Higher hourly rate and tips",
+          "Leadership opportunities",
+          "Access to exclusive cocktail workshops"
+        ]
+      },
+      {
+        "company_name": "Velvet Mixology",
+        "company_description": "Velvet Mixology is a luxury cocktail lounge focusing on premium spirits and mixology techniques.",
+        "about_role": "We are looking for an Experienced Cocktail Bartender to lead cocktail creation, host tasting events, and elevate guest experiences.",
+        "skills_needed": [
+          "Expertise in mixology and drink presentation",
+          "Strong customer interaction and communication skills",
+          "Event hosting experience preferred"
+        ],
+        "benefits_offered": [
+          "High tips and competitive salary",
+          "Professional development workshops",
+          "Employee perks and happy hours"
+        ]
+      }
+    ]
+  }
+  
